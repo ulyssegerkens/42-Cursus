@@ -14,7 +14,7 @@
 	</b>
 </p>
 
-<table align="center" style="width:80%;">
+<table align="center">
 	<thead>
 		<tr>
 			<th>Circle</th>
