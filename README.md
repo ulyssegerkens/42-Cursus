@@ -62,7 +62,7 @@
     </tr>
 	<tr>
       <td>02</td>
-      <td><a href="https://github.com/ulyssegerkens/push_swap">🕹️ So log</a></td>
+      <td><a href="https://github.com/ulyssegerkens/push_swap">🕹️ So long</a></td>
       <td></td>
 	  <td>...</td>
       <td></td>
