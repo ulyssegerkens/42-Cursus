@@ -12,7 +12,7 @@
 		<tr>
 			<th>Circle</th>
 			<th>Project</th>
-			<th>Interests</th>
+			<th>Main interests</th>
 			<th>Note</th>
 			<th>Score</th>
 		</tr>
