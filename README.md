@@ -23,35 +23,35 @@
       <td><a href="https://github.com/ulyssegerkens/libft">🧰 Libft</a></td>
       <td>C, Rigor</td>
 	  <td>+ export version</td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clko9gj46004008mm4p1bl1xk/project/3054001" alt="ugerkens's 42 Libft Score" /></a></td>
+      <td><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 Libft Score" /></td>
     </tr>
     <tr>
       <td>01</td>
       <td><a href="https://github.com/ulyssegerkens/get_next_line">📃 Get Next Line</a></td>
       <td>C, Rigor, Memory allocation</td>
 	  <td>without any leaks</td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clko9gj46004008mm4p1bl1xk/project/3063182" alt="ugerkens's 42 get_next_line Score" /></a></td>
+      <td><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 get_next_line Score" /></td>
     </tr>
     <tr>
       <td>01</td>
       <td><a href="https://github.com/ulyssegerkens/printf">🖨️ Printf</a></td>
       <td>C, Rigor</td>
 	  <td>+ export version</td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clko9gj46004008mm4p1bl1xk/project/3063181" alt="ugerkens's 42 ft_printf Score" /></a></td>
+      <td><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="ugerkens's 42 ft_printf Score" /></td>
     </tr>
     <tr>
       <td>01</td>
       <td>💾 Born2BeRoot</td>
       <td>Network & system administration</td>
 	  <td></td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clko9gj46004008mm4p1bl1xk/project/3064942" alt="ugerkens's 42 Born2beroot Score" /></a></td>
+      <td><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 Born2beroot Score" /></td>
     </tr>
     <tr>
       <td>02</td>
       <td><a href="https://github.com/ulyssegerkens/push_swap">📊 Push Swap</a></td>
       <td>Sorting algorithms</td>
 	  <td>+ article</td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clko9gj46004008mm4p1bl1xk/project/3120261" alt="ugerkens's 42 push_swap Score" /></a></td>
+      <td><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 push_swap Score" /></td>
     </tr>
 	<tr>
       <td>02</td>
