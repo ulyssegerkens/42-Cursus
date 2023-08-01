@@ -59,7 +59,7 @@
 			<td>02</td>
 			<td><a href="https://github.com/ulyssegerkens/push_swap">📊 Push Swap</a></td>
 			<td>Sorting algorithms</td>
-			<td>+ article</td>
+			<td>+ <a href="https://medium.com/@ulysse.gerkens/push-swap-in-less-than-4200-operations-c292f034f6c0">article</a></td>
 			<td>
 				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 push_swap Score" /></picture>
 			</td>
