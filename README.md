@@ -21,7 +21,7 @@
 			<td>00</td>
 			<td><a href="https://github.com/ulyssegerkens/libft">🧰 Libft</a></td>
 			<td>C, Rigor</td>
-			<td>+ export version</td>
+			<td>export version</td>
 			<td>
 				<picture>
 					<img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 Libft Score" />
@@ -41,7 +41,7 @@
 			<td>01</td>
 			<td><a href="https://github.com/ulyssegerkens/printf">🖨️ Printf</a></td>
 			<td>C, Rigor</td>
-			<td>+ export version</td>
+			<td>export version</td>
 			<td>
 				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="ugerkens's 42 ft_printf Score" /></picture>
 			</td>
@@ -52,7 +52,7 @@
 			<td>Network & system administration</td>
 			<td></td>
 			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 Born2beroot Score" /></picture>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 Born2beroot Score"/></picture>
 			</td>
 		</tr>
 		<tr>
@@ -61,16 +61,19 @@
 			<td>Sorting algorithms</td>
 			<td>+ <a href="https://medium.com/@ulysse.gerkens/push-swap-in-less-than-4200-operations-c292f034f6c0">article</a></td>
 			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 push_swap Score" /></picture>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 push_swap Score"/></picture>
 			</td>
 		</tr>
 		<tr>
 			<td>02</td>
-			<td><a href="https://github.com/ulyssegerkens/push_swap">🕹️ So long</a></td>
+			<td><a href="https://github.com/ulyssegerkens/so_long">🕹️ So long</a></td>
+			<td>Graphics Library, Code Architecture</td>
 			<td></td>
-			<td>...</td>
-			<td></td>
+			<td>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 push_swap Score"/></picture>
+			</td>
 		</tr>
+		
 	</tbody>
 </table>
 <br>
