@@ -40,7 +40,7 @@
 		<tr>
 			<td>01</td>
 			<td><a href="https://github.com/ulyssegerkens/printf">🖨️ Printf</a></td>
-			<td>C, Rigor</td>
+			<td>variadic args</td>
 			<td></td>
 			<td>
 				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="ugerkens's 42 ft_printf Score" /></picture>
@@ -70,16 +70,16 @@
 			<td>Graphics Library, Code Architecture</td>
 			<td></td>
 			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 push_swap Score"/></picture>
+			<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/ </picture>
 			</td>
 		</tr>
 		<tr>
 			<td>02</td>
 			<td><a href="https://github.com/ulyssegerkens/pipex">⏩️ Pipex</a></td>
-			<td>Shell, process, fd</td>
-			<td>coming soon</td>
+			<td>UNIX, pipe, process, fd</td>
+			<td></td>
 			<td>
-				<picture></picture>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/ </picture>
 			</td>
 		</tr>	
 	</tbody>
