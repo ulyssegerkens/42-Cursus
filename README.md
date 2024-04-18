@@ -34,7 +34,7 @@
 			<td>C, Rigor, Memory allocation</td>
 			<td>without any leaks</td>
 			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 get_next_line Score" /></picture>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score" /></picture>
 			</td>
 		</tr>
 		<tr>
@@ -43,7 +43,7 @@
 			<td>variadic args</td>
 			<td></td>
 			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="ugerkens's 42 ft_printf Score" /></picture>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="100 Score" /></picture>
 			</td>
 		</tr>
 		<tr>
@@ -52,7 +52,7 @@
 			<td>Network & system administration</td>
 			<td></td>
 			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 Born2beroot Score"/></picture>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/></picture>
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@
 			<td>Sorting algorithms</td>
 			<td>+ <a href="https://medium.com/@ulysse.gerkens/push-swap-in-less-than-4200-operations-c292f034f6c0">article</a></td>
 			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="ugerkens's 42 push_swap Score"/></picture>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/></picture>
 			</td>
 		</tr>
 		<tr>
@@ -80,6 +80,24 @@
 			<td></td>
 			<td>
 				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/ </picture>
+			</td>
+		</tr>	
+		<tr>
+			<td>02</td>
+			<td><a href="https://github.com/ulyssegerkens/minishell">🐚 Minishell</a></td>
+			<td>Shell, bash, parsing, AST</td>
+			<td></td>
+			<td>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/ </picture>
+			</td>
+		</tr>	
+		<tr>
+			<td>02</td>
+			<td><a href="https://github.com/ulyssegerkens/philosophers">🍝 Philosophers</a></td>
+			<td>Threads, mutex</td>
+			<td></td>
+			<td>
+				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="100 Score" /></picture>
 			</td>
 		</tr>	
 	</tbody>
