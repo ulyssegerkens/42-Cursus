@@ -83,7 +83,7 @@
 			</td>
 		</tr>	
 		<tr>
-			<td>02</td>
+			<td>03</td>
 			<td><a href="https://github.com/ulyssegerkens/minishell">🐚 Minishell</a></td>
 			<td>Shell, bash, parsing, AST</td>
 			<td></td>
@@ -92,7 +92,7 @@
 			</td>
 		</tr>	
 		<tr>
-			<td>02</td>
+			<td>03</td>
 			<td><a href="https://github.com/ulyssegerkens/philosophers">🍝 Philosophers</a></td>
 			<td>Threads, mutex</td>
 			<td></td>
