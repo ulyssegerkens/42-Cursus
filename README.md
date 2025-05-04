@@ -1,6 +1,6 @@
 <p align="center">
 	<b>
-	Projects achieved at <a href="https://campus19.be/">19 Brussels</a> (<a href="https://www.42network.org/">42 Network</a>) programming school.
+	Projects achieved at <a href="https://campus19.be/">42 Brussels</a> (<a href="https://www.42network.org/">42 Network</a>) programming school.
 	<br>
 	Start in April 2023. Intra profile: <a href="https://profile.intra.42.fr/users/ugerkens">ugerkens</a>.
 	<br><br>
