@@ -159,8 +159,6 @@
 <br>
 <br>
 <p align="center">
-	<a href="https://campus19.be/">
-	<img  width="150" src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2eb721b3-5b33-4703-9922-684aadbbdc76">
-	</a>
+	<img  src="https://www.42lausanne.ch/wp-content/uploads/2021/02/Holy-Graph.png">
 </p>
 <br>
